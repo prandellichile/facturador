@@ -1,0 +1,22 @@
+2026-01-13 13:50:40,562 INFO POS_FULL iniciado
+2026-01-13 13:50:40,606 WARNING [IMPORT] Archivo Excel no encontrado: D:\Proyectos\Cuesta Blaca Proyect Vers. 2.0\fuentes\INFORME CUESTA BLANCA().xlsx
+2026-01-13 13:57:07,016 INFO POS_FULL iniciado
+2026-01-13 13:57:07,019 WARNING [IMPORT] Archivo Excel no encontrado: D:\Proyectos\Cuesta Blaca Proyect Vers. 2.0\fuentes\INFORME CUESTA BLANCA().xlsx
+2026-01-13 14:08:12,143 INFO POS_FULL iniciado (sin importación automática)
+2026-01-13 14:08:40,688 INFO Añadido al carrito: 202010000711.140 x1 @ 3000.0
+2026-01-13 14:09:09,788 INFO Precio actualizado: babuchas -> 3000.0
+2026-01-13 14:10:30,223 INFO Añadido al carrito: 202010000711.140 x1 @ 3000.0
+2026-01-13 14:17:41,925 INFO Añadido al carrito: 101020000351.146 x10 @ 5000.0
+2026-01-13 14:24:12,046 INFO POS_FULL iniciado (sin importación automática)
+2026-01-13 14:26:06,032 INFO Añadido al carrito: 101020000351.146 x1 @ 20.0 (manual)
+2026-01-13 14:26:37,403 INFO Precio línea 0 editado a 5000.0
+2026-01-13 14:34:49,561 INFO Precio línea 0 editado a 6000.0
+2026-01-13 14:35:18,633 INFO Precio actualizado: campera -> 9000.0
+2026-01-13 14:35:33,679 INFO Precio actualizado: campera -> 9000.0
+2026-01-13 14:35:50,886 INFO Precio actualizado: campera -> 9000.0
+2026-01-13 14:37:57,179 INFO POS_FULL iniciado (sin importación automática)
+2026-01-13 14:38:14,909 INFO Añadido al carrito: 101030000131.R44 x1 @ 25.0 (manual)
+2026-01-13 14:38:26,250 INFO Precio línea 0 editado a 9000.0
+2026-01-14 14:59:48,466 INFO POS_FULL iniciado (sin importación automática)
+2026-01-14 15:00:34,365 INFO Añadido al carrito: 103020000431.M42 x1 @ 2000.0 (manual)
+2026-01-14 20:44:40,246 INFO POS_FULL iniciado (sin importación automática)
